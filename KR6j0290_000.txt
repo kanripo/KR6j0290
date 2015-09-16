@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 觀世音菩薩如意摩尼陀羅尼經
+#+DATE: 2015-08-30 20:29:27.713892
+#+PROPERTY: JUAN 0
