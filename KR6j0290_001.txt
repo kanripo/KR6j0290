@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:27.417238
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:46
 #+TITLE: 觀世音菩薩如意摩尼陀羅尼經
 #+PROPERTY: CBETA_ID T20n1083
 #+PROPERTY: ID KR6j0290
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1083
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0290_T_001-0200b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1083[Nos.1080-1082]¶
-
- 觀世音菩薩如意摩尼陀羅尼經¶
+No. 1083 [Nos. 1080-1082]¶
+觀世音菩薩如意摩尼陀羅尼經¶
 ¶
 唐天竺三藏寶思惟譯¶
 
@@ -156,8 +155,7 @@ No.1083[Nos.1080-1082]¶
 十一七日塗。入諸仙藥諸大園苑皆得成就。¶
 一切藥物草木諸神悉即現形。十二七日塗。¶
 一切山闈門皆得入十三七日塗。乃至一切¶
-諸門無不得入。一切諸人無不得見。十四¶
-七日塗。欲界諸天宮殿無不開者悉皆得見。¶
+諸門無不得入。一切諸人無不得見。十四七日塗。欲界諸天宮殿無不開者悉皆得見。¶
 十五七日塗。夜見如晝。十六七日塗。遠見地¶
 下所有諸事。十七七日塗世界之中諸有地¶
 獄悉皆得見。其受罪者皆得解脫。十八七日¶
